@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ * Space Mapper
+ * Copyright (C) 2012 John R.B. Palmer
+ * Contact: jrpalmer@princeton.edu
+ * 
+ * This file is part of Space Mapper.
+ * 
+ * Space Mapper is free software: you can redistribute it and/or modify 
+ * it under the terms of the GNU General Public License as published by 
+ * the Free Software Foundation, either version 3 of the License, or (at 
+ * your option) any later version.
+ * 
+ * Space Mapper is distributed in the hope that it will be useful, but 
+ * WITHOUT ANY WARRANTY; without even the implied warranty of 
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  
+ * See the GNU General Public License for more details.
+ * 
+ * You should have received a copy of the GNU General Public License along 
+ * with Space Mapper.  If not, see <http://www.gnu.org/licenses/>.
+-->
+
+<resources>
+
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="app_name" translatable="false">Bee Path</string>
+    <string name="internal_message_id" translatable="false">csic.ceab.movelab.beepath</string>
+    <string name="tracking_notification_initial">Bee Path is tracking your path.</string>
+    <string name="tracking_notification">Tracking your path.</string>
+    <string name="tracking_notification_subject">Bee Path Tracking</string>
+    <string name="cancel">Cancel</string>
+    <string name="new_fix_blinker">New Fix!</string>
+    <string name="time_label">Time and Date: </string>
+    <string name="lat_label">Latitude: </string>
+    <string name="lon_label">Longitude: </string>
+    <string name="alt_label">Altitude (m): </string>
+    <string name="acc_label">Accuracy (m): </string>
+    <string name="prov_label">Provider: </string>
+    <string name="list_my_data_heading">My Data List</string>
+    <string name="list_data_button">View Raw Data</string>
+    <string name="my_data_heading">My Data</string>
+    <string name="GPL">View GPL</string>
+    <string name="LGPL">View LGPL</string>
+    <string name="noGPSAlert">"Your GPS receiver is disabled. Do you want to enable it?".</string>
+    <string name="noGPSnoNetAlert">Your GPS and network location receivers are both disabled. Space Mapper will not be able to locate without at least one of these. Do you want to enable them?</string>
+    <string name="noGPS">Your GPS receiver is off. \nPlease click here to turn it on.</string>
+    <string name="noGPSnoNet">Space Mapper cannot locate you because your GPS and network location receivers are both off. \nPlease click here to turn them on.</string>
+    <string name="consent_date_prompt">You indicated your consent by clicking the Consent button at the time and date shown below. You may withdraw your consent at any time by using the Help/Withdraw menu.</string>
+    <string name="help">Help</string>
+    <string name="about">About</string>
+    <string name="contact">Contact</string>
+    <string name="contact_heading">Contact</string>
+    <string name="ok">OK</string>
+    <string name="project_website">www.princeton.edu/~jrpalmer/spacemapper</string>
+    <string name="project_email">activity.space.project@gmail.com</string>
+    <string name="menu_locate_now">Locate Now</string>
+    <string name="menu_upload_now">Upload Now</string>
+    <string name="main_text_off">Bee Path is off. \nClick here to turn it back on.</string>
+    <string name="location_found">LOCATION FOUND</string>
+    <string name="checking_location">Locating</string>
+    <string name="countdown_text">Search duration:</string>
+    <string name="user_id">User ID:</string>
+    <string name="map_data_button">Map Data</string>
+    <string name="save_data_prompt">Save to SD card as comma separated value file.</string>
+    <string name="map_data_prompt">View data on map.</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="menu_data">My Data</string>
+    <string name="menu_help">Help</string>
+    <string name="SplashHeading">Bee Path</string>
+    <string name="service_is_on">Bee Path is on</string>
+    <string name="service_is_off">Bee Path is off</string>
+    <string name="banner_image_content_description">Bee Path Icon</string>
+    <string name="consent_heading">Consent Form</string>
+    <string name="consent_instructions">Please read the following consent form. You may electronically sign the form, indicating your consent, by clicking on the "Consent" button at the bottom of this screen. Any questions may be addressed to activity.space.project@gmail.com.</string>
+    <string name="consent_signature_button">Consent</string>
+    <string name="nfixes_text">Recorded:</string>
+    <string name="nuploads_text">Uploaded:</string>
+    <string name="thankyou">Thank you for participating!</string>
+    <string name="consent_decline_button">Decline</string>
+
+</resources>
